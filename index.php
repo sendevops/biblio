@@ -17,7 +17,7 @@
 							<a href="#">Panier</a> 
 							<a href="#">Télécharger l'app</a>
 							<a href="#">Assistance technique</a>
-					</div>
+							<a href="#">Contact</a>
 				</div><!-- fin subheader -->
 				<div id="mainheader">
 					<div id="logo">
