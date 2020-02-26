@@ -1,5 +1,5 @@
 
-<h3> Liste des livres de la bibliothque</h3>
+<h3> Liste des livres de la bibliotheque</h3>
 <table>
 	<tr>
 		<th> Titre </th>
